@@ -1,0 +1,21 @@
+[
+  {
+    "name_of_pairs": "LDF/USDT LP",
+    "market_size": "$ 1245,256",
+    "roi": "11.25%",
+    "purchased": "$22413.00"
+  },
+
+  {
+    "name_of_pairs": "LDF/USDC LP",
+    "market_size": "$ 1245,256",
+    "roi": "11.25%",
+    "purchased": "$22413.00"
+  },
+  {
+    "name_of_pairs": "USDC LP",
+    "market_size": "$ 1245,256",
+    "roi": "11.25%",
+    "purchased": "$22413.00"
+  }
+]

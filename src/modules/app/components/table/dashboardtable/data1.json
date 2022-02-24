@@ -1,0 +1,22 @@
+[
+  {
+    "name_of_pool": "USDT",
+    "market_size": "$ 1245,256",
+    "interest_rate": "11.25%",
+    "variable_apy": "12.25",
+    "total_borrowed": "$ 22413.00",
+    "loan_request": "02",
+    "loan_extension": "05",
+    "default_payment": "06"
+  },
+  {
+    "name_of_pool": "USDT",
+    "market_size": "$ 1245,256",
+    "interest_rate": "11.25%",
+    "variable_apy": "12.25",
+    "total_borrowed": "$ 22413.00",
+    "loan_request": "02",
+    "loan_extension": "05",
+    "default_payment": "06"
+  }
+]

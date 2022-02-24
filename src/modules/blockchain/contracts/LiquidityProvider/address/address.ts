@@ -1,0 +1,6 @@
+export const usdctokenaddress="0xf491DFB6811a52715Dc6C334270eC972f6Ca2D8e";
+export const usdcbondaddress="0xe1598719070CD504682EF5C69cb3b61b43051313";
+export const ldftokenaddress="0xd2487e5865a1829F1E6D23AaA47B2Db5a9fD01d4";
+export const ldfbondaddress="0x03cAc05191D0393136E191A4B99b61D5BAEE2eef";
+export const treasuryaddress="0x0f52474a92493dD620D46F2846B46655B9F512F2";
+export const nldfbondaddress="0xF7adE0C831726023A79252E7DeE0e3bE365BF359";

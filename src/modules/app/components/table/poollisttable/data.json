@@ -1,0 +1,24 @@
+[
+  {
+    "name_of_pool": "USDT",
+    "market_size": "$ 1245,256",
+    "interest_rate": "11.25%",
+    "total_borrowed": "$ 22413.00",
+    "default_payment": "06"
+  },
+
+  {
+    "name_of_pool": "USDY",
+    "market_size": "$ 1245,256",
+    "interest_rate": "11.25%",
+    "total_borrowed": "$ 22413.00",
+    "default_payment": "02"
+  },
+  {
+    "name_of_pool": "USDC",
+    "market_size": "$ 1245,256",
+    "interest_rate": "11.25%",
+    "total_borrowed": "$ 22413.00",
+    "default_payment": "05"
+  }
+]
